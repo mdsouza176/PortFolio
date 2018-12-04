@@ -2,4 +2,4 @@
 My website to show off projects I have created
 
 Current plans:
-[ ] Learn how to edit webpage.
+- [ ] Learn how to edit webpage.
