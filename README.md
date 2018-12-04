@@ -1,4 +1,5 @@
 # PortFolio
 My website to show off projects I have created
 
-Hi
+Current plans:
+[ ] Learn how to edit webpage.
